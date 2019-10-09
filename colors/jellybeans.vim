@@ -650,6 +650,7 @@ call s:X("IndentGuidesEven","","1b1b1b","","","")
 
 " Plugins, etc.
 
+hi! link ModeMsg Special
 hi! link TagListFileName Directory
 call s:X("PreciseJumpTarget","B9ED67","405026","","White","Green")
 
